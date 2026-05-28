@@ -1,5 +1,7 @@
 # Medical_Insurance_Cost_Prediction
 
+![App UI](images/web_pg_screenshot.png)
+
 #### Project Overview
 This project focuses on predicting individual medical insurance charges based on patient demographic and health related information using Machine Learning regression algorithms. The objective is to build multiple regression models, compare their performance, detect overfitting, and deploy the best performing model using streamlit.
 The project includes:
