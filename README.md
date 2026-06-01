@@ -114,6 +114,10 @@ can be further applied to ensemble models like:
 * Gradient Boosting
 to optimize performance.
 
+#### NBviewer Link
+
+https://nbviewer.org/github/priyasri07dec/Medical_Insurance_Cost_Prediction/blob/main/code.ipynb
+
 #### Streamlet Web Application
 
 https://priya-srivastava-medicalinsurancecostprediction.streamlit.app/
